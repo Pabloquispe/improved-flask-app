@@ -1,1 +1,8 @@
 venv/
+<<<<<<< HEAD
+=======
+*.pyc
+__pycache__/
+instance/
+.pytest_cache/
+>>>>>>> 437cf26 (Initial commit with improved Flask app)
